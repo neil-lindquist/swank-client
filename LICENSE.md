@@ -1,5 +1,5 @@
-Original code is Copyright (c) 2015-2017 Steve Levine.
-Subsequent improvements are Copyright (c) 2018-2019 Neil Lindquist.
+Original code is Copyright (c) 2015-2017 Steve Levine.  
+Subsequent improvements are Copyright (c) 2018-2019 Neil Lindquist.  
 All code is licensed under the MIT license below.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
