@@ -16,4 +16,4 @@ Future additions to the API:
 
 See `test.js` for an example use case.
 
-This package forms a core part of the `AtomSlime` package for the Atom text editor.
+This package forms a core part of the `SLIMA` package for the Atom text editor.
