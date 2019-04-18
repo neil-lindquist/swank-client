@@ -1,6 +1,9 @@
 
 # development notes
 *-notes.txt
+notes-introspection.txt
+notes-unicode.txt
 sample.txt
+paredit_sample.txt
 test.js
 lookup-object.lisp
