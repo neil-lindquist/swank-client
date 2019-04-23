@@ -1,0 +1,27 @@
+language: node_js
+# Node.js 10 is the latest version
+# Atom currently uses Node.js 8
+node_js:
+    - 8
+    - 9
+    - 10
+env:
+    matrix:
+        - LISP=sbcl-bin
+matrix:
+    include:
+        - node_js: 10
+          env: LISP=ccl-bin
+        - node_js: 10
+          env: LISP=ecl
+        - node_js: 10
+          env: LISP=cmucl
+        - node_js: 10
+          env: LISP=alisp
+        - os: osx
+          node_js: 10
+          env: LISP=sbcl-bin
+before_script:
+    - curl -L https://raw.githubusercontent.com/roswell/roswell/release/scripts/install-for-ci.sh | sh
+    - git clone https://github.com/slime/slime.git
+    - npm install
