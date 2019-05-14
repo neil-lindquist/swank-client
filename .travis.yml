@@ -10,10 +10,10 @@ env:
         - LISP=sbcl-bin
 matrix:
     include:
-        - node_js: 10
-          env: LISP=ccl-bin
-        - node_js: 10
-          env: LISP=ecl
+#        - node_js: 10
+#          env: LISP=ccl-bin
+#        - node_js: 10
+#          env: LISP=ecl
         - node_js: 10
           env: LISP=cmucl
         - node_js: 10
