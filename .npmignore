@@ -7,3 +7,7 @@ sample.txt
 paredit_sample.txt
 test.js
 lookup-object.lisp
+
+# tests
+.travis.yml
+spec
