@@ -1,3 +1,6 @@
+## 2.0.1
+* Improve behavior when receiving non-ASCII characters
+
 ## 2.0.0
 * Redo `find_definition` return value
 * Redo `debug_return_from_frame` return value
