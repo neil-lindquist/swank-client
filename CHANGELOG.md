@@ -1,3 +1,6 @@
+## 2.0.2
+* Fix a bug with autodoc not correctly escaping values
+
 ## 2.0.1
 * Improve behavior when receiving non-ASCII characters
 
