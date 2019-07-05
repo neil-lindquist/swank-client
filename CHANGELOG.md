@@ -1,3 +1,6 @@
+## 2.0.3
+* Fix the values of local variables in a stack frame being stored as lisp strings
+
 ## 2.0.2
 * Fix a bug with autodoc not correctly escaping values
 
