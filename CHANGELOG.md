@@ -1,3 +1,15 @@
+## 3.0.0
+* Change returned inspector object to be Javascript-y instead of a paredit.js object
+* Add inspection functions
+  * Presentations
+  * Frame variables
+  * Expressions evaluated in a frame
+  * The current condition
+  * The nth element in the current inspector
+  * The previous inspector value
+  * The next inspector value
+* Add support for large inspections that require multiple sends from Swank.
+
 ## 2.0.3
 * Fix the values of local variables in a stack frame being stored as lisp strings
 

@@ -10,9 +10,6 @@ This library provides an editor/view-independent API for making the following qu
 - Retrieving auto documentation
 - Controlling a debugger
 - Autocompletion requests
-
-Future additions to the API:
-
 - Object introspection requests
 
 See `test.js` for an example use case.
