@@ -1,4 +1,8 @@
-## 3.0.0
+## 3.1.0 (2019-07-24)
+* Add support for calling swank commands from packages other than CL-USER
+* Remove debug printing statements that were accidently left in the last release
+
+## 3.0.0 (2019-07-20)
 * Change returned inspector object to be Javascript-y instead of a paredit.js object
 * Add inspection functions
   * Presentations
@@ -9,6 +13,7 @@
   * The previous inspector value
   * The next inspector value
 * Add support for large inspections that require multiple sends from Swank.
+
 
 ## 2.0.3
 * Fix the values of local variables in a stack frame being stored as lisp strings
