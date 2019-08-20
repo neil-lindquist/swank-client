@@ -1,3 +1,7 @@
+## 4.1.0-rc.1 (2019-08-20)
+* Add API for converting from lisp source strings/ast
+* Fix a some things not loading after being compiled
+
 ## 4.0.0 (2019-07-28)
 * Change the API for `profiles_invoke_toggle_package` to take JS booleans instead of strings of CL booleans
 * Add handlers for `read-from-minibuffer`, `y-or-n-p`, `read-string`, and `read-aborted` swank messages
