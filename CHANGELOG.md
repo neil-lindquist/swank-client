@@ -1,4 +1,4 @@
-## 4.1.0-rc.1 (2019-08-20)
+## 4.1.0 (2019-08-25)
 * Add API for converting from lisp source strings/ast
 * Fix a some things not loading after being compiled
 
