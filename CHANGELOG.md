@@ -1,3 +1,7 @@
+## 4.2.0 (2020-03-01)
+* Add support for macro and compiler-macro expansions
+* Add support to utils.from_lisp_string for paredit.js ast objects
+
 ## 4.1.0 (2019-08-25)
 * Add API for converting from lisp source strings/ast
 * Fix a some things not loading after being compiled
