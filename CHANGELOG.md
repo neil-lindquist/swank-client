@@ -1,3 +1,7 @@
+## 4.3.0-rc.1 (2020-05-17)
+* Add support for compiler notes
+* Fix an issue when errors occur during compilation requests
+
 ## 4.2.0 (2020-03-01)
 * Add support for macro and compiler-macro expansions
 * Add support to utils.from_lisp_string for paredit.js ast objects
