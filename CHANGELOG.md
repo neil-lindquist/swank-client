@@ -1,4 +1,4 @@
-## 4.3.0-rc.1 (2020-05-17)
+## 4.3.0 (2020-05-19)
 * Add support for compiler notes
 * Fix an issue when errors occur during compilation requests
 
