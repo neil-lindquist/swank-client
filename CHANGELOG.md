@@ -1,4 +1,4 @@
-## 4.4.0-rc.1 (2020-05-25)
+## 4.4.0 (2020-05-27)
 * Add function to inspect the result of an arbitrary evaluation
 * Add function to disconnect from Swank server
 * Fix loading large inspectors
