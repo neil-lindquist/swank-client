@@ -1,3 +1,7 @@
+## 4.5.0 (2020-09-05)
+* Add `is_connected()` to query if the client is connected to a swank server
+* Fix disconnect events not always occurring on disconnection
+
 ## 4.4.0 (2020-05-27)
 * Add function to inspect the result of an arbitrary evaluation
 * Add function to disconnect from Swank server
