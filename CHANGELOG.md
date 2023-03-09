@@ -1,3 +1,6 @@
+## 4.5.1 (2023-03-08)
+* Fix hang on SWANK 2.28 (#2)
+
 ## 4.5.0 (2020-09-05)
 * Add `is_connected()` to query if the client is connected to a swank server
 * Fix disconnect events not always occurring on disconnection
